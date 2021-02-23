@@ -1,0 +1,23 @@
+.wrapperdiv {
+    padding-top: 80px;
+    background-color: #e3f2fd;
+}
+.formcontainer {
+    width: 60%;
+    margin: 0 auto;
+}
+.container {
+    max-width: 1171px !important ;
+}
+.img-thumbnail {
+ max-width: 250% !important;
+ margin-right: 10px !important;
+}
+.btn-action-content{
+    display: flex;
+    align-items: center;
+}
+.btn-action-content button,
+.btn-action-content a{
+    margin-right: 5px;
+}
